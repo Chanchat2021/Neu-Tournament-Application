@@ -1,0 +1,17 @@
+C:\Users\Chandan.Chatterjee\Source\Repos\NeuTournament-API-May22\src\NeuTournament.Application\bin\Debug\net6.0\NeuTournament.Application.deps.json
+C:\Users\Chandan.Chatterjee\Source\Repos\NeuTournament-API-May22\src\NeuTournament.Application\bin\Debug\net6.0\NeuTournament.Application.dll
+C:\Users\Chandan.Chatterjee\Source\Repos\NeuTournament-API-May22\src\NeuTournament.Application\bin\Debug\net6.0\NeuTournament.Application.pdb
+C:\Users\Chandan.Chatterjee\Source\Repos\NeuTournament-API-May22\src\NeuTournament.Application\bin\Debug\net6.0\NeuTournament.Domain.dll
+C:\Users\Chandan.Chatterjee\Source\Repos\NeuTournament-API-May22\src\NeuTournament.Application\bin\Debug\net6.0\NeuTournament.Infrastructure.dll
+C:\Users\Chandan.Chatterjee\Source\Repos\NeuTournament-API-May22\src\NeuTournament.Application\bin\Debug\net6.0\NeuTournament.Infrastructure.pdb
+C:\Users\Chandan.Chatterjee\Source\Repos\NeuTournament-API-May22\src\NeuTournament.Application\bin\Debug\net6.0\NeuTournament.Domain.pdb
+C:\Users\Chandan.Chatterjee\Source\Repos\NeuTournament-API-May22\src\NeuTournament.Application\obj\Debug\net6.0\NeuTournament.Application.csproj.AssemblyReference.cache
+C:\Users\Chandan.Chatterjee\Source\Repos\NeuTournament-API-May22\src\NeuTournament.Application\obj\Debug\net6.0\NeuTournament.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chandan.Chatterjee\Source\Repos\NeuTournament-API-May22\src\NeuTournament.Application\obj\Debug\net6.0\NeuTournament.Application.AssemblyInfoInputs.cache
+C:\Users\Chandan.Chatterjee\Source\Repos\NeuTournament-API-May22\src\NeuTournament.Application\obj\Debug\net6.0\NeuTournament.Application.AssemblyInfo.cs
+C:\Users\Chandan.Chatterjee\Source\Repos\NeuTournament-API-May22\src\NeuTournament.Application\obj\Debug\net6.0\NeuTournament.Application.csproj.CoreCompileInputs.cache
+C:\Users\Chandan.Chatterjee\Source\Repos\NeuTournament-API-May22\src\NeuTournament.Application\obj\Debug\net6.0\NeuTournament.Application.csproj.CopyComplete
+C:\Users\Chandan.Chatterjee\Source\Repos\NeuTournament-API-May22\src\NeuTournament.Application\obj\Debug\net6.0\NeuTournament.Application.dll
+C:\Users\Chandan.Chatterjee\Source\Repos\NeuTournament-API-May22\src\NeuTournament.Application\obj\Debug\net6.0\refint\NeuTournament.Application.dll
+C:\Users\Chandan.Chatterjee\Source\Repos\NeuTournament-API-May22\src\NeuTournament.Application\obj\Debug\net6.0\NeuTournament.Application.pdb
+C:\Users\Chandan.Chatterjee\Source\Repos\NeuTournament-API-May22\src\NeuTournament.Application\obj\Debug\net6.0\ref\NeuTournament.Application.dll
